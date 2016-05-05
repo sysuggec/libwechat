@@ -1,6 +1,5 @@
 
 <?php
-date_default_timezone_set('prc');
 /**
  微信api发送消息的函数库
  */
